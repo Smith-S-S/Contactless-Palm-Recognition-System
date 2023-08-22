@@ -1,4 +1,4 @@
-# Palm Recognition Biometric System
+# Palm Recognition Biometric System:
 <img width="973" alt="Screenshot 2023-06-30 at 12 19 07 PM" src="https://github.com/Smith-S-S/Contactless-Palm-Recognition-System/assets/80092760/8535a901-f5d2-42e1-be10-2bd38b8bdded">
 
 ![WhatsApp Image 2023-08-16 at 20 20 38](https://github.com/Smith-S-S/Contactless-Palm-Recognition-System/assets/80092760/a4725967-dd27-4efb-aeca-dc77137b78a4)
